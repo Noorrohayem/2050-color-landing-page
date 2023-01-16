@@ -1,0 +1,73 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.mynavbar{
+    background-color: blue;
+}
+.navbar {
+
+    font-weight: 900;
+    background-color: blue;
+}
+
+.nav-link{
+
+    color: white;
+}
+
+.navbar-brand{
+
+    color: white;
+}
+
+.banner-heading{
+
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.banner{
+    background-color: blue;
+    color: white;
+}
+
+.banner-btn{
+    background-color: rgb(111, 169, 169);
+    color: white;
+    padding: 12px 58px;
+    border-radius: 30px;
+    font-size: 21px;
+}
+
+.banner-btn{
+    background-color: white;
+    color: blue;
+    
+    
+}
+.banner-text{
+    font-size: 24px;
+}
+.text-sub{
+color: blue;
+font-weight: 700;
+font-size: 24px;
+}
+.text-title{
+    font-weight: 700;
+    font-size: 35px;
+
+}
+.text-link{
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+    border-bottom: 3px solid blue;
+
+}
+.text-p{
+    font-size: 17px;
+    font-weight: 400;
+    
+}
