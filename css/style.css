@@ -3,12 +3,12 @@ body{
 }
 
 .mynavbar{
-    background-color: blue;
+    background-color: #6c63ff;
 }
 .navbar {
 
     font-weight: 900;
-    background-color: blue;
+    background-color:#6c63ff;
 }
 
 .nav-link{
@@ -28,7 +28,7 @@ body{
 }
 
 .banner{
-    background-color: blue;
+    background-color: #6c63ff;
     color: white;
 }
 
@@ -42,7 +42,7 @@ body{
 
 .banner-btn{
     background-color: white;
-    color: blue;
+    color:#6c63ff;
     
     
 }
@@ -50,7 +50,7 @@ body{
     font-size: 24px;
 }
 .text-sub{
-color: blue;
+color:#6c63ff;
 font-weight: 700;
 font-size: 24px;
 }
@@ -63,11 +63,61 @@ font-size: 24px;
     font-weight: 700;
     text-decoration: none;
     color: black;
-    border-bottom: 3px solid blue;
+   ;
+}
 
 }
 .text-p{
-    font-size: 17px;
+    font-size: 18px;
     font-weight: 400;
     
 }
+.navbar-brand{
+    font-size: 40px;
+}
+.about-img{
+    margin-left: -265px;
+}
+.service-img-background{
+    background-color: beige;
+    border-radius: 80%;
+}
+.service-img-background {
+    margin-top: -100px;
+    margin-left: 46px;
+}
+
+.service-icon{
+    background-color: beige;
+    border-radius: 50%;
+    padding: 13px;
+    width: 53px;
+    display: block;
+    height: 53px;
+    
+    text-align: center;
+    
+}
+
+.service-title{
+    font-size: 21px;
+    font-weight: 700;
+}
+
+ .service-card:hover span{
+    transform: translateX(50px);
+ }
+
+ .service-icon{
+    transition:0.8s;
+ }
+ .full section{
+    background-color: aliceblue;
+ }
+ .text-secondary{
+    color: azure;
+ }
+ 
+ .prouduct-card{
+    border-bottom: 4px solid #6c63ff;
+ }
